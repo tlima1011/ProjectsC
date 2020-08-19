@@ -1,2 +1,2 @@
 # ProjectsC
-Projetos com C
+Projetos com Exercicios de Lógica de Programação 
